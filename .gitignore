@@ -1,0 +1,5 @@
+*.exe
+.vscode/
+analysis/smoke_figures/
+analysis/smoke_tables/
+data/smoke_results.csv

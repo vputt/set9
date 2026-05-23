@@ -1,0 +1,25 @@
+case,algorithm,time_ms,char_ops
+almost_sorted,QuickSort,0.784,783808
+almost_sorted,MergeSort,3.368,39044
+almost_sorted,String QuickSort,0.565,102678
+almost_sorted,String MergeSort,3.566,39044
+almost_sorted,MSD Radix,1.164,7227
+almost_sorted,MSD Radix + Quick,0.37,23379
+common_prefix,QuickSort,3.36,4636778
+common_prefix,MergeSort,5.537,2520233
+common_prefix,String QuickSort,0.656,276865
+common_prefix,String MergeSort,6.838,2520233
+common_prefix,MSD Radix,9.508,247305
+common_prefix,MSD Radix + Quick,8.262,259458
+random,QuickSort,0.778,519846
+random,MergeSort,3.708,44457
+random,String QuickSort,0.268,35740
+random,String MergeSort,3.776,44457
+random,MSD Radix,1.568,7227
+random,MSD Radix + Quick,0.458,19220
+reversed,QuickSort,5.999,5190413
+reversed,MergeSort,3.309,28249
+reversed,String QuickSort,0.624,148483
+reversed,String MergeSort,3.371,28249
+reversed,MSD Radix,1.341,7227
+reversed,MSD Radix + Quick,0.483,54264
